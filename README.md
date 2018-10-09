@@ -1,4 +1,4 @@
-# <img src="https://github.com/pip-webui/pip-webui/raw/master/doc/Logo.png" alt="Pip.WebUI Logo" style="max-width:30%"> <br/> Color Themes
+# <img src="https://github.com/pip-webui/pip-webui/raw/master/doc/Logo.png" alt="Pip.WebUI Logo" style="max-width:30%"> <br/> Color Themes test
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
